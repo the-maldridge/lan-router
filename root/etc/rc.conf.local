@@ -1,0 +1,4 @@
+dhcpd_flags="vether0"
+nsd_flags=""
+
+pkg_scripts="unbound"

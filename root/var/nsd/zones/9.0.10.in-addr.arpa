@@ -1,0 +1,13 @@
+$TTL 1h
+
+@ IN SOA root.lan-party. phy1729.lan-party. (
+	2014091301
+	3h	;refresh
+	1h	;retry
+	1w	;expire
+	1h )	;negative cache
+
+
+	IN NS	root.lan-party
+
+1	IN PTR	root.lan-party
