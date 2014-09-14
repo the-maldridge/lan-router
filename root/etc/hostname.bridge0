@@ -1,4 +1,5 @@
 add vether0
 add bge1
 add ath0
+-inet6
 up
